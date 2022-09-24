@@ -1,4 +1,4 @@
-### Hi there 👋
+### 문제해결을 즐기는 개발자 입니다 👋
 
 <!--
 **Ohjinseo2022/Ohjinseo2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
