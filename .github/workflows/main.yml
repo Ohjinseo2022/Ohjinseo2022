@@ -1,7 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule: 
+  # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -17,8 +18,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name Ohjinseo
-          git config user.email dhwlstj@gmail.com
+          git config user.name "Ohjinseo2022"
+          git config user.email "dhwlstj@gmail.com"
           git add -A .
           git commit -m "generated"
           git push
