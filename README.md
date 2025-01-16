@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ---
 
 
-![Ohjinseo2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohjinseo2022&show_icons=true&theme=radical&size_weight=1&count_weight=1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjinseo2022&layout=compact&theme=radical&size_weight=1&count_weight=1)](https://github.com/Ohjinseo2022/github-readme-stats)
+![Ohjinseo2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohjinseo2022&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohjinseo2022&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5&exclude_repo=Showmeeverything)
 
 ---
 
