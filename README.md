@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 👋 Welcome to 오진서 GitHub!
-안녕하세요! 저는 오진서 입니다. 문제해결을 즐기는 개발자입니다. 저의 GitHub에 오신 것을 환영합니다! 😊
+안 문제해결을 즐기는 개발자 오진서입니다. 저의 GitHub에 오신 것을 환영합니다! 😊
 
 ---
 
